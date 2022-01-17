@@ -2,15 +2,15 @@
   "basics": {
     "name": "Kenji Sanehira",
     "label": "Student",
-    "picture": "images/20190211-PONO0750.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "images/GitHub Profile Picture.png",
+    "email": "kenjisan@hawaii.edu",
+    "phone": "808-729-8454",
+    "website": "https://sanehirakenji.github.io",
+    "summary": "I am currently studying computer science at the University of Hawaii at Manoa. I plan on graduating in May 2024 and I would like to apply my knowledge from school into the workforce.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "95-1039 Aelike Street",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
