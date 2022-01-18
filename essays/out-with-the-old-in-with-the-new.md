@@ -24,7 +24,7 @@ Fast forward to the present day, ICS 111 and 211 allowed me to dive into and fam
 
 ICS 311 started immediately on a new foot with the pregame module, which listed three new languages and a new developer environment. Of the three languages, the one I wanted to start right away was JavaScript. Prior youtube videos and conversations with friends made it clear to me that Java and JavaScript were two separate languages, but naturally I thought to myself <em>“surely if Java is in the name, it won’t be all that different” </em> . And with that, my journey into JavaScript had begun.
 <br>
-<img class="ui left  circular floated image" src="../images/ifelsestatements.jpg" width = "300">
+<img class="ui left  circular floated image" src="../images/ifelsestatements.JPG" width = "300">
   <br>
 The FreeCodeCamp course that we were assigned in E06 first consisted of 113 “Basic JavaScript” problems that were designed to give students a general rundown of different elements in JavaScript and how to use them. It was essentially ICS 111’s topics focussed into JavaScript rather than Java, which was interesting as they shared many elements with each other, including the syntax for the if else statements and loops.
 <br>
