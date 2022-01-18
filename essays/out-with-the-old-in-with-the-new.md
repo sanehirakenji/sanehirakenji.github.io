@@ -38,6 +38,6 @@ The computer science track at the University of Hawaii at Manoa has always been 
   <br>
 Fast forward to the present day, ICS 111 and 211 allowed me to dive into and familiarize myself with Java and the IDE Eclipse, while 311 helped to introduce a multitude of algorithms and datastructures that I would use in programming. I finally felt like I was at some sort of breathing point where I could stop and be comfortable with where I was for a bit, but I also yearned to go above and beyond and learn new things. I wanted to go back to being uncomfortable, the only problem was I didn’t know where to start.
 <br>
-<img class="ui middle floated image" src="../images/applewatch7.jpg" width = "300">
+<img class="ui center floated image" src="../images/applewatch7.jpg" width = "300">
   <br>
   <br>
