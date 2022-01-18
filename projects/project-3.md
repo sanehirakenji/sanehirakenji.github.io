@@ -11,7 +11,6 @@ labels:
 summary: A very barebones game that I created for ICS 111.
 ---
 
-<h1>Inverse Tic-Tac-Toe</h1>
 <h5> Languages:</h5>
   <ul>
   <li>Java</li>
