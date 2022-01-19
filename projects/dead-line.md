@@ -25,4 +25,4 @@ The premise follows a teenager who finds out that he has more than just homework
 
 <img class="ui medium centered image" src="../images/Horror3.JPG">
 
-Source: <a href="https://contest.tenscaryminutes.com/title/5f50888d529e9de1448cf6e0"></i>Click here to view the horror video project</a>
+Source: <a href="https://contest.tenscaryminutes.com/title/5f50888d529e9de1448cf6e0">Click here to view the horror video project</a>
