@@ -40,6 +40,6 @@ Another aspect of ICS 314 that proved to remove me from my comfort zone was the 
 Personally, after doing these first two practice WODS, I enjoyed timing myself and always improving on the time after figuring out the problem for the first time. I feel as if it not only improves our ability to type out the problems, but it also helps us to memorize the syntax of the problems that we need to solve. The technique reminds me of video game speedrunning, in which people try to beat video games in record time, generally perfecting their speed on minor parts of the game in the process. All in all, I feel as if these WODS that utilize athletic software engineering will be challenging but extremely beneficial towards my computer science career.
 
 <br>
-<img class="ui medium center floated image" src="../images/applewatch7.jpg" width = "300">
+<img class="ui medium centered floated image" src="../images/applewatch7.jpg" width = "300">
   <br>
   <br>
