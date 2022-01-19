@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Speaking.jpg
 title: Simple Voice Assistant
 permalink: projects/simple-voice-assistant
 # All dates must be YYYY-MM-DD format!
@@ -12,12 +12,14 @@ labels:
 summary: A simple voice assistant that is able to respond to basic voice commands.
 ---
 
-<img class="ui large centered image" src="../images/vacay-home-page.png">
+<img class="ui large centered image" src="../images/Jarvis.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This was a project that I attempted during Winter 2021. It is based entirely around the discovery that the Marvel Studio's [Iron Man 3 Jarvis app](https://www.youtube.com/watch?v=6i5hho2aD-E) was removed from the App store. I wanted to relive my childhood of talking to Jarvis and believed that I would be albe to utilize my computer science knowledge to accomplish this goal.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This was my first experience using Python and using the Python-based IDE <em>PyCharm</em>. Although I had not used python previously, due to knowledge of Java and transferring syntax, I was able to accomplish a simple Python script that accomplished different tasks on my computer by using different if-else statements, switch statements, loops, and methods.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Essentially the app worked as a siri/alexa copycat that replicated the fictional Jarvis AI that was featured in <em>Marvel's Iron Man</em>. The app hosted many features like checking emails, texts, telling the time, temperatures, and telling jokes. At the time of writing this project page, I have gotten the bot to tell the time and tell jokes. I was also able to implement multiple of my own commands including opening files on my computer, playing songs on youtube, and making comments when specific things are mentioned.
+
+Eventually, I would like to hook this script to an arduino and have it control a 3D printed Iron Man suit.
+
+Source: <a href="https://github.com/sanehirakenji/jarvistest"><i class="large github icon"></i>Click here to view the Github Repository for my Voice Assistant</a>
