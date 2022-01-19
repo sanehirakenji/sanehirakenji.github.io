@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/HorrorFront.JPG
-title: Simple Voice Assistant
-permalink: projects/simple-voice-assistant
+title: Horror Movie Project
+permalink: projects/dead-line
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-21
 labels:
@@ -13,11 +13,16 @@ labels:
 summary: A simple voice assistant that is able to respond to basic voice commands.
 ---
 
-<img class="ui large centered image" src="../images/Horror1.JPG">
+<img class="ui medium centered image" src="../images/Horror1.JPG">
 
-<em>Dead Line</em> was a short film project that I was able to 
+<em>Dead Line</em> was a short film project that I was able to create for a high school class. I worked on this project with my friends Shueng, McGwire, Bryson, and Kara for the film competition [Ten Scary Minutes](https://contest.tenscaryminutes.com/). 
+
+The project guidelines entailed that the video needed to be horror-themed, under 10 minutes, and needed to be filmed on a phone rather than on a camera. I was able to write, edit, do the camerawork, and submit the project on the website. The project was filmed at my house with a Samsung Galaxy S7. It was edited on the free video editing software <em>HitFilm Express</em>.
+
+<img class="ui small left image" src="../images/Horror2.JPG">
+The premise follows a teenager who finds out that he has more than just homework to worry about when he sees a mysterious masked man dancing in his backyard. While calling 911, the line goes dead and the masked man makes his way into the house, eventually outsmarting the boy and cornering him. The premise was loosely based on a short film that I had seen previously in the year titled ["2 AM The Smiling Man"](https://www.youtube.com/watch?v=_u6Tt3PqIfQ).
 
 
-<img class="ui large centered image" src="../images/Horror3.JPG">
+<img class="ui medium centered image" src="../images/Horror3.JPG">
 
-Source: <a href="https://github.com/sanehirakenji/jarvistest"><i class="large youtube icon"></i>Click here to view the Github Repository for my Voice Assistant</a>
+Source: <a href="https://contest.tenscaryminutes.com/title/5f50888d529e9de1448cf6e0"></i>Click here to view the horror video project</a>
