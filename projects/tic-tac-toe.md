@@ -8,6 +8,8 @@ permalink: projects/tic-tac-toe
 date: 2020-12-14
 labels:
   - Java
+  - Game
+  - Beginner
 summary: A very barebones game that I created for ICS 111.
 ---
 
