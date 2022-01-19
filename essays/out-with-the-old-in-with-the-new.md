@@ -33,11 +33,11 @@ However, there were also parts of the course that I found particularly interesti
 <br>
   <br>
 <h1> Speed++ </h1>
-Another aspect of ICS 311 that proved to remove me from my comfort zone was the introduction of “athletic software engineering”. Athletic software engineering is a method of testing our knowledge of the concepts covered by adding the variable of time to our coding problems. We are asked to complete the questions under a certain amount of time, generally with 4 different time challenges, practicing them over and over again until we have met the time threshold. 
+Another aspect of ICS 314 that proved to remove me from my comfort zone was the introduction of “athletic software engineering”. Athletic software engineering is a method of testing our knowledge of the concepts covered by adding the variable of time to our coding problems. We are asked to complete the questions under a certain amount of time, generally with 4 different time challenges, practicing them over and over again until we have met the time threshold. 
 <br>
   <br>
 
-Personally, after doing these two practice WODS, I enjoyed timing myself and always improving on the time after figuring out the problem for the first time. I feel as if it not only improves our ability to type out the problems, but it also helps us to memorize the syntax of the problems that we need to solve. The technique reminds me of video game speedrunning, in which people try to beat video games in record time, generally perfecting their speed on minor parts of the game in the process. All in all, I feel as if these WODS that utilize athletic software engineering will be challenging but extremely beneficial.
+Personally, after doing these two practice WODS, I enjoyed timing myself and always improving on the time after figuring out the problem for the first time. I feel as if it not only improves our ability to type out the problems, but it also helps us to memorize the syntax of the problems that we need to solve. The technique reminds me of video game speedrunning, in which people try to beat video games in record time, generally perfecting their speed on minor parts of the game in the process. All in all, I feel as if these WODS that utilize athletic software engineering will be challenging but extremely beneficial towards my computer science career.
 
 <br>
 <img class="ui medium center floated image" src="../images/applewatch7.jpg" width = "300">
