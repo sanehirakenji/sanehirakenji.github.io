@@ -22,7 +22,7 @@ Fast forward to the present day, ICS 111 and 211 allowed me to dive into and fam
   <br>
 <h1> Code Switching (Literally) </h1>
 
-ICS 311 started immediately on a new foot with the pregame module, which listed three new languages and a new developer environment. Of the three languages, the one I wanted to start right away was JavaScript. Prior youtube videos and conversations with friends made it clear to me that Java and JavaScript were two separate languages, but naturally I thought to myself <em>“surely if Java is in the name, it won’t be all that different” </em> . And with that, my journey into JavaScript had begun.
+ICS 314 started immediately on a new foot with the pregame module, which listed three new languages and a new developer environment. Of the three languages, the one I wanted to start right away was JavaScript. Prior youtube videos and conversations with friends made it clear to me that Java and JavaScript were two separate languages, but naturally I thought to myself <em>“surely if Java is in the name, it won’t be all that different” </em> . And with that, my journey into JavaScript had begun.
 <br>
 <img class="ui medium left floated image" src="../images/ifelsestatements.JPG" width = "300">
   <br>
