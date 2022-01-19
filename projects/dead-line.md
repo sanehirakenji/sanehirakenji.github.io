@@ -10,7 +10,7 @@ labels:
   - Video Competition
   - Horror
   - Short Film
-summary: A simple voice assistant that is able to respond to basic voice commands.
+summary: A small horror short film that I created with my friends in High School for "Ten Scary Minutes".
 ---
 
 <img class="ui medium centered image" src="../images/Horror1.JPG">
