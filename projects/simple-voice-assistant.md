@@ -14,6 +14,11 @@ summary: A simple voice assistant that is able to respond to basic voice command
 
 <img class="ui large centered image" src="../images/Jarvis.png">
 
+<h5> Languages:</h5>
+  <ul>
+  <li>Python</li>
+  </ul>
+  
 This was a project that I attempted during Winter 2021. It is based entirely around the discovery that the Marvel Studio's [Iron Man 3 Jarvis app](https://www.youtube.com/watch?v=6i5hho2aD-E) was removed from the App store. I wanted to relive my childhood of talking to Jarvis and believed that I would be albe to utilize my computer science knowledge to accomplish this goal.
 
 This was my first experience using Python and using the Python-based IDE <em>PyCharm</em>. Although I had not used python previously, due to knowledge of Java and transferring syntax, I was able to accomplish a simple Python script that accomplished different tasks on my computer by using different if-else statements, switch statements, loops, and methods.
