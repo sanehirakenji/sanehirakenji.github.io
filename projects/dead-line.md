@@ -22,7 +22,8 @@ The project guidelines entailed that the video needed to be horror-themed, under
 <img class="ui medium left floated image" src="../images/Horror2.JPG" width = "300">
 The premise follows a teenager who finds out that he has more than just homework to worry about when he sees a mysterious masked man dancing in his backyard. While calling 911, the line goes dead and the masked man makes his way into the house, eventually outsmarting the boy and cornering him. The premise was loosely based on a short film that I had seen previously in the year titled ["The Smiling Man"](https://www.youtube.com/watch?v=_u6Tt3PqIfQ).
 
-
+<br>
+<br>
 <img class="ui large centered image" src="../images/Horror3.JPG">
 
 Source: <a href="https://contest.tenscaryminutes.com/title/5f50888d529e9de1448cf6e0">Click here to view the horror video project</a>
