@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Speaking.jpg
+image: images/VoiceFront.png
 title: Simple Voice Assistant
 permalink: projects/simple-voice-assistant
 # All dates must be YYYY-MM-DD format!
