@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HorrorFront.JPG
+image: images/HorrorNewFront.png
 title: Horror Movie Project
 permalink: projects/dead-line
 # All dates must be YYYY-MM-DD format!
