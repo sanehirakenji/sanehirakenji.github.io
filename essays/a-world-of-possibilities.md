@@ -16,7 +16,7 @@ I liked building things and taking them apart, so I was a big fan of the game Mi
 I am a big fan of the Marvel Cinematic Universe and idolized the avenger Iron Man, making a goal for myself to one day build a suit just like his from the screen or have my own version of his AI “Jarvis”. 
 These were crazy dreams that I had in 2010. Dreams that can now become a reality.
 <br>
-<img class="ui medium right floated image" src="../images/Minecraft.jpg" width = "300">
+<img class="ui small left floated image" src="../images/HallofArmor.jpg" width = "300">
   <br>
 Today, the possibilities of creation in the digital world are basically limitless. In the past two centuries, we as a society have overcome many obstacles and created
 hardware and software that seemed previously impossible. My personal AI that I had once fantasized in the 5th grade was something that I could look up today with a simple
@@ -30,7 +30,7 @@ created and I have no idea how to create an application. I believe that these ar
 to learn this semester.
 
 <br>
-<img class="ui medium left floated image" src="../images/ifelsestatements.JPG" width = "300">
+<img class="ui medium right floated image" src="../images/HelloWorld.png" width = "300">
   <br>
 After gaining a thorough understanding of how software engineering works, I would like to utilize what I have learned in this course into actual real world applications. Though I believe that ICS 111
 , 211, and 311 were a great way to start off the computer science degree path, after taking those classes I only knew the basics of Java and separate algorithms. We weren’t provided with the tools 
