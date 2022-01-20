@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kenji Sanehira",
     "label": "Student",
-    "picture": "images/CoverImage.png",
+    "picture": "../images/CoverImage.png",
     "email": "kenjisan@hawaii.edu",
     "phone": "808-729-8454",
     "website": "https://sanehirakenji.github.io",
