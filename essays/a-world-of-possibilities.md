@@ -16,7 +16,7 @@ I liked building things and taking them apart, so I was a big fan of the game Mi
 I am a big fan of the Marvel Cinematic Universe and idolized the avenger Iron Man, making a goal for myself to one day build a suit just like his from the screen or have my own version of his AI “Jarvis”. 
 These were crazy dreams that I had in 2010. Dreams that can now become a reality.
 <br>
-  <img class="ui left right floated image" src="../images/MyHelmets.jpg" width = "300">
+  <img class="ui medium left floated image" src="../images/MyHelmets.jpg" width = "300">
   <br>
 Today, the possibilities of creation are basically limitless. Physically, we are able to create things out of thin air, due to the wonders of 3D printing. The digital world provides more ways to create our own things. In the past two centuries, we as a society have overcome many obstacles and created
 hardware and software that seemed previously impossible. My personal AI that I had once fantasized in the 5th grade was something that I could look up today with a simple
