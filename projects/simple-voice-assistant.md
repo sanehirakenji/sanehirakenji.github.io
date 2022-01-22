@@ -12,7 +12,7 @@ labels:
 summary: A simple voice assistant that is able to respond to basic voice commands.
 ---
 
-<img class="ui large centered image" src="../images/RunJarvis.JPG">
+<img class="ui image" src="../images/RunJarvis.JPG">
 
 <h5> Languages:</h5>
   <ul>
