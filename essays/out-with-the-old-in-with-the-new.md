@@ -15,7 +15,6 @@ labels:
 <h1> Unfamiliarity </h1>
 The computer science track at the University of Hawaii at Manoa has always been a shaky one as I really had no previous experience with computer science in the past. Growing up I had no problem sitting behind a computer for entire days at a time talking to friends, surfing the internet, and playing video games, but at no point did I ever look into programming or learning a programming language. So immediately after declaring my major as computer science in freshman year, I found it a little difficult to learn and adapt to the terminology of the Java programming language and all of its little intricacies.
 <br>
-<img class="ui medium right floated image" src="../images/Minecraft.jpg" width = "300">
   <br>
 Fast forward to the present day, ICS 111 and 211 allowed me to dive into and familiarize myself with Java and the IDE Eclipse, while 311 helped to introduce a multitude of algorithms and data structures that I would use in programming. I finally felt like I was at some sort of breathing point where I could stop and be comfortable with where I was for a bit, but I also yearned to go above and beyond and learn new things. I wanted to go back to being uncomfortable, being unfamiliar; the only problem was I didn’t know where to start.
 <br>
@@ -40,6 +39,4 @@ Another aspect of ICS 314 that proved to remove me from my comfort zone was the 
 Personally, after doing these first two practice WODS, I enjoyed timing myself and always improving on the time after figuring out the problem for the first time. I feel as if it not only improves our ability to type out the problems, but it also helps us to memorize the syntax of the problems that we need to solve. The technique reminds me of video game speedrunning, in which people try to beat video games in record time, generally perfecting their speed on minor parts of the game in the process. All in all, I feel as if these WODS that utilize athletic software engineering will be challenging but extremely beneficial towards my computer science career.
 
 <br>
-<img class="ui medium centered floated image" src="../images/applewatch7.jpg" width = "300">
-  <br>
   <br>
