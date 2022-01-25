@@ -79,13 +79,13 @@
       "endDate": "Present",
       "gpa": "3.89",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "MATH 301",
-        "MATH 372",
-        "MATH 307",
-        "ICS 311",
-        "Currently Taking: ICS 314 and ICS 212"
+        "ICS 111 (Intro to Computer Science 1)",
+        "ICS 211 (Intro to Computer Science 2)",
+        "MATH 301 (Discrete Mathematics)",
+        "MATH 372 (Probability and Statistics)",
+        "MATH 307 (Linear Algebra and Differential Equations)",
+        "ICS 311 (Algorithms 1)",
+        "Currently Taking: ICS 314 (Software Engineering 1) and ICS 212 (Scripting with C/C++)"
       ]
     }
   ],
