@@ -9,7 +9,7 @@ labels:
   - Smart Questions
   - ICS 314
 ---
-# Please, I need help ASAP! What is a smart question?
+# Please, I need help ASAP! What is a "Smart Question"?
   In the essay [“How to ask questions the smart way” written by Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html), Eric speaks on behalf of the entire community of “hackers” about universal guidelines 
 when it comes to asking questions about coding online. The essay creates a clear line between “smart” and “stupid” questions that the reader is able to recognize 
 both when reading questions and when developing them. In fact, the header of this section is worded to be a “stupid” question according to Raymond. So how exactly
@@ -29,13 +29,17 @@ These question are usually met with backlash from the hacker community, and hack
 
 That being said, after reading [Raymond’s Article](http://www.catb.org/esr/faqs/smart-questions.html), what are some examples of smart and stupid questions?
 
-# A smart question
+# A Smart Question
 
 The first [question](https://stackoverflow.com/questions/52473522/node-js-reference-an-inner-property-of-an-object-by-a-variable****) that we will be looking at is an excellent example of a “smart” question. The question asked by user Adam Matan, has the header “Node.js: Reference an inner property of an object by a variable.” This header immediately grabs the attention of the people reading it, as it describes what the user is looking for and the environment that he needs assistance with. As for the actual question itself, the user is direct and to the point with describing what they are looking for and has explicitly stated that searching online has not yielded their desired results. 
 
 This question was responded to well by the community as another user Atishay Jain answered the question within 5 minutes of Matan asking. Atishay gave a respectful response to the question that was able to answer Adam’s question, which was largely due to the fact that Matan’s question was straight to the point. Atishay even gave some small syntax tips to help Adam with the answer that was given.
 
-<br>
-<img class="ui medium right floated image" src="../images/HelloWorld.png" width = "300">
-  <br>
+# A Really Stupid Question
+
+The following question is an excellent example of a stupid question. The question asked by user “M.Davis” has the header “What is the equation needed to  find the area of a regular polygon within a circle when a given no. of sides and radius?”. The header is exactly the same as the question and is a question that could be answered if the user gave more time into it. The user also posts code without explaining it. The question is also not related to coding in any way, as it is asking for a simple equation.
+
+	This question was met with heavy criticism from the stackoverflow community, as even though it was answered fast, the remarks made by the person answering exhibited irritation with the person asking the question. A user DSC responds to the question with an answer to his question, but tells the user to find the formula for themselves as “Stack Overflow is meant for programming problems”. Other answers from users  include “This is a geometry problem, not a programming problem.” and “Do you know the formula? Paste it in your query so we understand what you are trying to implement.”, both of which are written very passive-aggressively. One user even votes to close the question, deeming it to be “off-topic”.
+
+
 
