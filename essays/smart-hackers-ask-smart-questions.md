@@ -17,7 +17,7 @@ does Raymond describe this distinction between smart and stupid questions?
 
   According to Raymond, a “smart” question is one that basically reflects the users’ situational awareness. Raymond describes that people who ask good questions have
 already done a decent amount of research on the question that they are asking; the answers they are seeking aren’t right in front of them. The questions are also
-asked in the right area and directed towards the right demographic of people. Headers are relevant yet attention-grabbing. On top of all of this, a good question is generally asked
+asked in the right area and directed towards the right demographic of people. Question headers are relevant yet attention-grabbing. On top of all of this, a good question is generally asked
 with the implication that the person asking the question will be involved in the answer-retrieval process. These questions are appraised by hackers as they show people
 genuinely trying their hardest, and thus are ones that are answered more often.
 
