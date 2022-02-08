@@ -34,9 +34,14 @@ A feature that I found especially helpful with checkstyle was an error counter t
 This all brings us to the coding standard that we will use for 314, which utilizes a code analysis tool called “ESLint”. Starting off with the browser-based IDE JSFiddle, I was often irritated that at times I would not be able to identify extremely simple errors in my code that could have been caught with a code analysis tool like checkstyle. 
 
 For example, there is no indication that the following for loop using java syntax is incorrect in JSFiddle: 
+
 <img class="ui medium image" src="../images/JSFiddle.JPG" width = "400">
 
+
+
+
 Using IntelliJ with ESLint on the other hand will yield the following error:
+
 <img class="ui medium image" src="../images/SS.png" width = "400">
 
 Thus, it was a relief to see that we were going to use a code analysis tool like checkstyle for this class. Over time, checkstyle has allowed me to see that even though formatted and unformatted code perform the same tasks, formatting code allows for a better understanding of everyone looking at said code. In fact, when learning Javascript itself, I found it extremely useful that the website freecodecamp.org utilized its own coding standard. All in all, I believe that exposing ourselves to and learning from these coding standards and code analysis tools will help to make us all more efficient programmers.
