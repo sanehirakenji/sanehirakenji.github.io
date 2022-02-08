@@ -14,37 +14,22 @@ labels:
 
 # Training Wheels
 
-From the time in which I was a very young child, I was always interested in the different intricacies of everyday objects and appliances around me. 
-I liked building things and taking them apart, so I was a big fan of the game Minecraft and my heart would race at the thought of building large lego sets. 
-I am a big fan of the Marvel Cinematic Universe and idolized the avenger Iron Man, making a goal for myself to one day build a suit just like his from the screen or have my own version of his AI “Jarvis”. 
-These were crazy dreams that I had in 2010. Dreams that can now become a reality.
-
-  <img class="ui medium left floated image" src="../images/MyHelmets.jpg" width = "300">
-
-Today, the possibilities of creation are basically limitless. Physically, we are able to create things out of thin air, due to the wonders of 3D printing. The digital world provides more ways to create our own things. In the past two centuries, we as a society have overcome many obstacles and created
-hardware and software that seemed previously impossible. My personal AI that I had once fantasized in the 5th grade was something that I could look up today with a simple
-tutorial on youtube. With the power of 3D printing, I can hold my very own Iron Man helmet within a couple of hours. It is this endless stream of technological advancements and possibilities that led me to taking an interest in the major of computer science as a whole.
+	A problem that I have always encountered when it came to many different school assignments in elementary through high school was the fact that many times the way that an assignment had to be structured was not clearly stated in the instructions. I’ve always been a by-the-book student and often stressed over whether the way that I structured an assignment was exactly what my teacher was looking for. Though other classmates of mine dreaded lengthy rubrics filled with guidelines, I was extremely fond of them as they essentially left no room for errors or misinterpretation of the instructions. There was a clear cut answer between whether or not an assignment looked right or wrong and personally, I liked it.
 
  
 # If It Works, It Works.
 
-Though I was always interested in where websites came from or how different software and applications were created, I never really looked into the details of software engineering 
-until my freshman year of college. And even then, my peek into the world of software engineering was extremely shallow. I still have no clue exactly how a web domain is claimed or
-created and I have no idea how to create an application. I believe that these are basic concepts that we will go over in this course, and as such they are two things that I would like 
-to learn this semester.
-
+	Though I enjoyed being by-the-book with essays and projects in high school, I started loosening up a bit in college, especially with computer science classes and the assignments that came with them. At the beginning of ICS 111, I was completely new to the subject and initially had a pretty rough time learning to code and all of the syntax that came with it. Due to this layer of difficulty that came with learning the Java language, I often resorted to the mindset of “if it works, it works”, and I didn’t care much for runtime, storage usage, and most importantly to this essay, the structure of my code.
 
 <img class="ui medium right floated image" src="../images/HelloWorld.png" width = "300">
 
-After gaining a thorough understanding of how software engineering works, I would like to utilize what I have learned in this course into actual real world applications. Though I believe that ICS 111
-, 211, and 311 were a great way to start off the computer science degree path, after taking those classes I only knew the basics of Java and separate algorithms. We weren’t provided with the tools 
-to create our own gimmicks and creations, and I feel as if 314 serves that purpose well. I am excited to finally utilize different coding languages towards things other than a simple laulima assignment.
+	More often than not, code that I would turn in for ICS 111 looked like a well-typed-out essay, rather than a computer science coding project. I was under the initial impression that there was a certain amount of freedom that came with coding, such that as long as you typed out the correct syntax and the code does what it is supposed to do, we had done the code correctly. On top of this, I was already getting full credit on assignments without a coding structure, so why should I even bother adding one?  Being almost 2 years down the computer science path, I would definitely not give my past self full credit for the “lazy” looking un-formatted code.
 
 # The Game Changer
 
-All of that being said, I would like to return to my roots when discussing the things that I would like to develop in the future. Freshman year of college was my first year of experience in the computer science
-field and I feel as if I have learned a lot from it. Though I will gain many skills and experiences in this course, the main thing that I want to learn is whether or not I become genuinely interested in software
-engineering after giving it a hands-on approach. If I do become invested, I would love to develop different web, mobile, and desktop applications. If I am not too invested in the course however, I would love to 
-still gain the knowledge to bring my own Jarvis AI to life. Either way, I believe that this course will be game-changing in my computer science career path.
+	Either at the middle of ICS 111 or at the very beginning of ICS 211, we were instructed to install a Java code analysis tool called “checkstyle”. This was my first introduction to a “coding standard” and honestly at the start I was not a big fan. I had somewhat developed my own unique “coding style” and I didn’t like the idea that all of my tab-key indents would need to be replaced by double spaces. I thought it was ridiculous, but in reality it was conditioning me towards a style that was easily understandable by everyone rather than just myself.
+
+	A feature that I found especially helpful with checkstyle was an error counter that was implemented to the top of the IDE. The counter would list out the total amount of problems that the coding style had with the code that you would be writing and it would be replaced by a green checkmark once all of the errors were fixed. This feature would lead me to realize that these coding standards could really be treated as an extremely specific rubric that told me exactly if I had done the assignment correctly or not. Eventually, fixing the errors in checkstyle became one of my favorite parts of coding itself (especially if my code worked on the first try).
+
 
 
