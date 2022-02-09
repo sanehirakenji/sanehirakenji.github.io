@@ -21,7 +21,7 @@ A problem that I have always encountered when it came to many different school a
 
 Though I enjoyed being by-the-book with essays and projects in high school, I started loosening up a bit in college, especially with computer science classes and the assignments that came with them. At the beginning of ICS 111, I was completely new to the subject and initially had a pretty rough time learning to code and all of the syntax that came with it. Due to this layer of difficulty that came with learning the Java language, I often resorted to the mindset of *“if it works, it works”*, and I didn’t care much for runtime, storage usage, and most importantly to this essay, the structure of my code.
 
-<img class="ui medium left floated image" src="../images/Spaghetti Code.JPG" width = "300">
+<img class="ui medium right floated image" src="../images/Spaghetti Code.JPG" width = "300">
 
 More often than not, the code that I would turn in for ICS 111 looked like a well-typed-out essay, rather than a computer science coding project. I was under the initial impression that there was a certain amount of freedom that came with coding, such that as long as you typed out the correct syntax and the code does what it is supposed to do, we had done the code correctly. On top of this, I was already getting full credit on assignments without a coding structure, so why should I even bother adding one?  Being almost 2 years down the computer science path, I would definitely not give my past self full credit for the *“lazy”* looking un-formatted code.
 
