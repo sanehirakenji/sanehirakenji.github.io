@@ -27,11 +27,11 @@ More often than not, the code that I would turn in for ICS 111 looked like a wel
 
 # The Game Changer
 
-Either at the middle of ICS 111 or the very beginning of ICS 211, we were instructed to install a Java code analysis tool called *“checkstyle”*. This was my first introduction to a *“coding standard”* and honestly, at the start, I was not a big fan. I had somewhat developed my own unique “coding style” and I didn’t like the idea that all of my tab-key indents would need to be replaced by double spaces. I thought it was ridiculous, but in reality, it was conditioning me towards a style that was easily understandable by everyone rather than just myself.
+Either at the middle of ICS 111 or the very beginning of ICS 211, we were instructed to install a Java code analysis tool called *“checkstyle”*. This was my first introduction to a *“coding standard”* and honestly, at the start, I was not a big fan. I had somewhat developed my own unique *“coding style”* and I didn’t like the idea that all of my tab-key indents would need to be replaced by double spaces. I thought it was ridiculous, but in reality, it was conditioning me towards a style that was easily understandable by everyone rather than just myself.
 
 A feature that I found especially helpful with checkstyle was an error counter that was implemented to the top of the IDE. The counter would list out the total amount of problems that the coding style had with the code that you would be writing and it would be replaced by a green checkmark once all of the errors were fixed. This feature would lead me to realize that these coding standards could really be treated as an extremely specific rubric that told me exactly if I had done the assignment correctly or not. Eventually, fixing the errors in checkstyle became one of my favorite parts of coding itself (especially if my code worked on the first try).
 
-This all brings us to the coding standard that we will use for ICS 314, which utilizes a code analysis tool called “ESLint”. Starting off with the browser-based IDE JSFiddle, I was often irritated that at times I would not be able to identify extremely simple errors in my code that could have been caught with a code analysis tool like checkstyle. 
+This all brings us to the coding standard that we will use for ICS 314, which utilizes a code analysis tool called *“ESLint”*. Starting off with the browser-based IDE JSFiddle, I was often irritated that at times I would not be able to identify extremely simple errors in my code that could have been caught with a code analysis tool like checkstyle. 
 
 For example, there is no indication that the following for loop using java syntax is incorrect in JSFiddle: 
 
