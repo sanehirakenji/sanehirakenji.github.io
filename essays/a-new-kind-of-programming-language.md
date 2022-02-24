@@ -32,7 +32,7 @@ A key strength of using a UI framework is that the style classes of varying webs
 UI frameworks are extremely helpful when it comes to actually going through the coding process of the website itself. As stated previously, the implementation of the framework is very similar to calling a method in a coding language. Thus, it shouldn’t come as a surprise that documentation exists for every class that a UI framework offers. Essentially, if you want to do something with the website that you are creating, the process comes down to looking up the component you are trying to create, understanding the syntax of the class you will be applying, and then simply applying the class into the HTML of the website. This entire process skips right through the coding of the class and allows the programmer to code more efficiently while increasing the website’s quality.
 
 We can look to the UI framework “Semantic UI” as an example of this simplicity. Suppose that we would like to implement a simple menu into our website. The menu would consist of four different items: Dogs, Cats, Fish, Birds. Our first step in the UI frameworks process would be to look within the documentation for a “menu-like” component, which luckily Semantic UI has:
-<img class="ui large image" src="../images/Sem1.JPG" width = "600">
+<img class="ui large image" src="../images/Sem1.JPG">
 
 The documentation gives us easy access to the syntax, from which we can see that there is an outer division with class “ui three item menu”, with three inner links with classes “active” and “item”. We are able to modify this code to fit our needs by changing the “three” class to “four”, adding an extra link item, and changing the different text associated with the different links:
 
