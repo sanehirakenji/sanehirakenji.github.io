@@ -14,7 +14,7 @@ labels:
 
 # The Appeal of a Beautiful User Interface
 
-<img class="ui floated left medium image" src="../images/90s.png" width = "500">
+<img class="ui floated left medium image" src="../images/90s.png" width = "550">
 In the same way that fashion styles, advertisements, and special effects are constantly changing and adapting with the times, so too are the user interfaces seen on websites across the internet. Websites in the early days of the internet are easily recognizable through their lack of a “pretty-looking” user interface, generally cluttered with vertical lists of hyperlinks and dimensionless buttons or menus.
 
  <img class="ui floated right medium image" src="../images/Apple.JPG" width = "400">
