@@ -14,12 +14,12 @@ labels:
 
 # The Appeal of a Beautiful User Interface
 
+<img class="ui floated left medium image" src="../images/90s.png" width = "500">
 In the same way that fashion styles, advertisements, and special effects are constantly changing and adapting with the times, so too are the user interfaces seen on websites across the internet. Websites in the early days of the internet are easily recognizable through their lack of a “pretty-looking” user interface, generally cluttered with vertical lists of hyperlinks and dimensionless buttons or menus.
 
- <img class="ui floated left medium image" src="../images/90s.png" width = "500">
+ <img class="ui floated right medium image" src="../images/Apple.JPG" width = "400">
 Nowadays, however, websites are filled with eye-catching color schemes, buttons, menus, and images that all add to the user’s experience of the website and may even influence the user to participate in certain activities on said website. For instance, we can compare the extremely bland-looking website above to the current Apple website. Apple products are generally praised for their simplicity and this is clearly reflected in the way that their home page is formatted.
 
- <img class="ui floated right medium image" src="../images/Apple.JPG" width = "400">
 User interfaces are thus a major aspect of website design and are basically the entire reason that when you learn HTML, you also learn the style sheet language CSS. However, after developing multiple websites, it may become tedious to continuously create new classes and ids for aspects of a website that are generally found all over the internet, and that is where UI frameworks come into play. UI frameworks are modern stylesheets that contain classes that can be used in the creation of a multitude of websites. The frameworks help to give the programmer an easier way to style their website in a way that appeals to the target audience of said website.
   
 
