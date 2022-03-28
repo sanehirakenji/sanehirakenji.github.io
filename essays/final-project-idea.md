@@ -9,9 +9,9 @@ labels:
 ---
 
 # Overview
-<i>The problem: </i> Many students at UH commute to school via car to "save money", yet with rising gas prices and the hybrid UH classes sometimes driving to school alone can be inefficient and costly to both the student and the economy.
+<i>The problem: </i> Many students at UH commute to school via car to "save money" yet with rising gas prices and the hybrid UH classes, driving to school alone can be inefficient and costly to both the student and the economy.
 
-<i>The solution: </i>
+<i>The solution: </i> CarpoolUH is an application for University of Hawaii students, allowing drivers to offer rides and riders to search for rides in their area that work for their schedules.
 # Approach 
 
 # Mockup Page Ideas
