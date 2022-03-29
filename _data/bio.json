@@ -54,7 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
+        "UNIX,Java, C, HTML, CSS, Javascript",
         "Learning Javascript, C, C++, HTML, CSS, and Python"
       ]
     },
@@ -72,6 +72,19 @@
   ],
   "education": [
     {
+      "institution": "Mililani High School, Mililani, HI",
+      "area": "",
+      "studyType": "Valedictorian",
+      "startDate": "2016-08-24",
+      "endDate": "2020-05-17",
+      "gpa": "4.107",
+      "courses": [
+        "National Honor Society Member",
+        "International Thespian Society Social Media Manager",
+        "Central Theatre Arts Academy Student",
+      ]
+    }
+    ,{
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
