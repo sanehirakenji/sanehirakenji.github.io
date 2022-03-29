@@ -26,6 +26,9 @@ The two main usages of CarpoolUH will be:
   <li>Allow people in emergency situations to find other users who may be able to give them a ride through the "Fast Ride" feature.</li>
 </ol>
 
+Regarding the first usage of CarpoolUH, the drivers and riders pages will be nearly identical with the only difference being the content of the page itself. Both pages will contain all profiles listed under their respective roles. The top of the pages will also allow the user to filter out the list of profiles to fit their requested times or place. Clicking on any of the listed profiles will take the user to that user's specific profile page. The drivers page will have an exclusive section that asks the user if they are in need of a fast ride, and will link them to the "Fast Ride" page.
+
+The second usage of CarpoolUH is a little more complicated in that 
 
 # Mockup Page Ideas
 Some possible mockup pages include:
