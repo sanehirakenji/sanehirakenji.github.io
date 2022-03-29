@@ -36,8 +36,8 @@ Some possible mockup pages include:
   <li>User Profile Page</li>
   <li>Riders Page</li>
   <li>Drivers Page</li>
-  <li>Fast Ride Page</li>
-  <li>Fast Ride Request Form Page</li>
+  <li>"Fast Ride" Page</li>
+  <li>"Fast Ride" Request Form Page</li>
 </ul>
 
 # Use Case Ideas
