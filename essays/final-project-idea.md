@@ -18,6 +18,15 @@ labels:
 
 When a user first creates an account with CarpoolUH, they are met with an account creation field with profile fields including their name, major, a brief bio, a picture of themselves, and most importantly, their hometown and whether they are a driver or a rider. There will also be a field with the best way to contact the driver in question to allow individuals to communicate with eachother about their ride situation.
 
+These profile fields will be public on the website as the user's individual profile page, which will be displayed on either the Riders page or the Drivers page based on what the user has picked.
+
+The two main usages of CarpoolUH will be:
+<ol>
+  <li>Allowing UH students to view drivers and riders who could lend or receive rides based on both time and location convenience to communicate with eachother.</li>
+  <li>Allow people in emergency situations to find other users who may be able to give them a ride through the "Fast Ride" feature.</li>
+</ol>
+
+
 # Mockup Page Ideas
 Some possible mockup pages include:
 <ul>
@@ -40,6 +49,7 @@ Some possible mockup pages include:
   <li>Rider goes to landing page, logs in, goes to Fast Ride Request Form Page, fills out form.</li>
   <li>Driver goes to landing page, logs in, finds a suitable rider on the Fast Ride Page, goes to rider profile and contacts rider.</li>
 </ul>
+
 # Beyond the Basics
 <ul>
   <li>Some sort of incentive system to encourage drivers to look for suitable riders in the Fast Ride Page.</li>
