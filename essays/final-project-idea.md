@@ -22,13 +22,13 @@ These profile fields will be public on the website as the user's individual prof
 
 The two main usages of CarpoolUH will be:
 <ol>
-  <li>Allowing UH students to view drivers and riders who could lend or receive rides based on both time and location convenience to communicate with eachother.</li>
+  <li>Allowing UH students to view drivers and riders who could lend or receive rides based on both time and location to communicate with eachother.</li>
   <li>Allow people in emergency situations to find other users who may be able to give them a ride through the "Fast Ride" feature.</li>
 </ol>
 
-Regarding the first usage of CarpoolUH, the drivers and riders pages will be nearly identical with the only difference being the content of the page itself. Both pages will contain all profiles listed under their respective roles. The top of the pages will also allow the user to filter out the list of profiles to fit their requested times or place. Clicking on any of the listed profiles will take the user to that user's specific profile page. The drivers page will have an exclusive section that asks the user if they are in need of a fast ride, and will link them to the "Fast Ride" page.
+Regarding the first usage of CarpoolUH, the drivers and riders pages will be nearly identical with the only difference being the content listed on the page itself. Both pages will contain all profiles listed under their respective roles. The top of the pages will also allow the user to filter out the list of profiles to fit their requested times or place. Clicking on any of the listed profiles will take the website user to that rider or driver's specific profile page. The drivers page will have an exclusive section that asks the user if they are in need of a fast ride, and will link them to the "Fast Ride" page.
 
-The second usage of CarpoolUH is utilizes a form that allows a user to ask for a ride from anyone who is willing to give them one. The form asks for the users requested leave/pickup time as well as where they are getting picked up from or going to. The user is then added to another list of individuals on the "Fast Ride" page, and will wait to see if a driver is able to take them to where they need to go.
+The second usage of CarpoolUH utilizes a form that allows a user to ask for a ride from anyone who is willing to give them one. The form asks for the users requested leave/pickup time as well as where they are getting picked up from or going to. The user is then added to another list of individuals on the "Fast Ride" page, and will wait to see if a driver is able to take them to where they need to go. Once a driver sees a suitable rider, they are given the option to contact the rider and "claim" the "Fast Ride", which will remove the Fast ride from the list.
 
 Although the application can be very situational, CarpoolUH aims to provide UH students in need of rides or who are short on money an alternative method of getting around besides public trasportation and mobile-taxi applications like Uber or lyft.
 
@@ -51,8 +51,8 @@ Some possible mockup pages include:
   <li>New user goes to the landing page, logs in, gets home page, creates profile as a driver.</li>
   <li>New user goes to the landing page, logs in, gets home page, creates profile as a rider.</li>
   <li>Admin goes to landing page, logs in, gets home page, allowed access to edit all pages and monitor driver and rider profiles.</li>
-  <li>Rider goes to landing page, logs in, goes to Drivers page and finds right driver, goes to driver profile page to find info.</li>
-  <li>Rider goes to landing page, logs in, goes to Fast Ride Request Form Page, fills out form.</li>
+  <li>Rider goes to landing page, logs in, goes to Drivers page and finds right driver, goes to driver profile page to find contact info.</li>
+  <li>Rider goes to landing page, logs in, goes to Fast Ride Request Form Page, fills out form, sees form on Fast Ride page.</li>
   <li>Driver goes to landing page, logs in, finds a suitable rider on the Fast Ride Page, goes to rider profile and contacts rider.</li>
 </ul>
 
