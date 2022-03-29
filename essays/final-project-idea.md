@@ -30,7 +30,7 @@ Regarding the first usage of CarpoolUH, the drivers and riders pages will be nea
 
 The second usage of CarpoolUH is utilizes a form that allows a user to ask for a ride from anyone who is willing to give them one. The form asks for the users requested leave/pickup time as well as where they are getting picked up from or going to. The user is then added to another list of individuals on the "Fast Ride" page, and will wait to see if a driver is able to take them to where they need to go.
 
-Although the application can be very situational, when used correctly it can provide UH students in need of rides or who are short on money an alternative method of getting around besides public trasportation and mobile-taxi applications like Uber or lyft.
+Although the application can be very situational, CarpoolUH aims to provide UH students in need of rides or who are short on money an alternative method of getting around besides public trasportation and mobile-taxi applications like Uber or lyft.
 
 
 # Mockup Page Ideas
