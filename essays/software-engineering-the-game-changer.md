@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering: The Game Changer
+title: Software Engineering - The Game Changer
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-09
 labels:
