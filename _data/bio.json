@@ -54,7 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "UNIX, Java, C, HTML, CSS, Javascript, Javascript, C, C++, HTML, CSS, and Python"
+        "UNIX, Java, C, HTML, CSS, Javascript, Javascript, C, C++, HTML, CSS, Python, Meteor, MongoDB, underscoreJS"
       ]
     },
     {
@@ -66,9 +66,7 @@
         "Git/GitHub",
         "Eclipse",
         "PyCharm",
-        "Meteor",
-        "MongoDB",
-        "underscoreJS",
+        "IntelliJ"
       ]
     }
   ],
