@@ -15,7 +15,7 @@ labels:
 summary: A carpooling web application developed for ICS 314.
 ---
 
-<img class="ui huge centered image" src="../images/Home.JPG" width = "550">
+<img class="ui huge centered image" src="../images/Home.JPG" width = "750">
 
 # Project Overview
 
@@ -29,7 +29,7 @@ Another small feature that was implemented was the fast ride form and feed, whic
 
 When it comes to the "group" part of the group project, I found myself taking charge of the group and the project most of the time; discussing meeting times and setting up the weekly meetings and minutes. I also was the one making the automated kanban boards and regulating the issues on Github. Project-wise, I created all of the MongoDB collections that were used in the project, including Users, Locations, UserLocations, and Requests. I also was responsible for creating/taking over the edit/add account page, the drivers page, the riders page, the fast ride request and feed, as well as the website's rating feature. Due to some complications and time constraints, I took over and completed the edit page, fast ride pages, and the website's rating system from other group members.
 
-<img class="ui huge centered image" src="../images/Drivah.JPG" width = "550">
+<img class="ui huge centered image" src="../images/Drivah.JPG" width = "750">
 
 # My Takeaways
 
