@@ -54,8 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "UNIX,Java, C, HTML, CSS, Javascript",
-        "Learning Javascript, C, C++, HTML, CSS, and Python"
+        "UNIX, Java, C, HTML, CSS, Javascript, Javascript, C, C++, HTML, CSS, and Python"
       ]
     },
     {
@@ -66,7 +65,10 @@
         "Windows",
         "Git/GitHub",
         "Eclipse",
-        "PyCharm"
+        "PyCharm",
+        "Meteor",
+        "MongoDB",
+        "underscoreJS",
       ]
     }
   ],
