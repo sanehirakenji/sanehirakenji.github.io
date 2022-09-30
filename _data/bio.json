@@ -54,7 +54,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "UNIX, Java, C, HTML, CSS, Javascript, Javascript, C, C++, HTML, CSS, Python, Meteor, MongoDB, underscoreJS"
+        "UNIX, Java, C, HTML, CSS, Javascript, C++, HTML, CSS, Python, Meteor, MongoDB, underscoreJS, Bootstrap, AngularJS"
       ]
     },
     {
@@ -90,7 +90,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "3.89",
+      "gpa": "3.91",
       "courses": [
         "ICS 111 (Intro to Computer Science 1)",
         "ICS 211 (Intro to Computer Science 2)",
@@ -98,12 +98,26 @@
         "MATH 372 (Probability and Statistics)",
         "MATH 307 (Linear Algebra and Differential Equations)",
         "ICS 311 (Algorithms 1)",
-        "Currently Taking: ICS 314 (Software Engineering 1) and ICS 212 (Scripting with C/C++)"
+        "ICS 314 (Software Engineering 1)",
+        "ICS 212 (Scripting with C/C++)",
+        "Currently Taking: ICS 313 (Programming Language Pragmatics) and ICS 321 (Database Systems)"
       ]
     }
   ],
   "work": [
-     {
+         {
+      "company": "University of Hawaii",
+      "position": "Web App Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "2022-05",
+      "endDate": "Present",
+      "summary": "Team member on the UH Groupings Project",
+      "highlights": [
+        "Work under Senior Developers and with fellow University of Hawaii students to develop the UH Groupings website.",
+        "Attend and present accomplishments and completed code for tickets picked up throughout the week."
+      ]
+    }, 
+    {
       "company": "Central Theatre Arts Academy",
       "position": "Set Assistant",
       "website": "https://centraltheatreartsacademy.org/",
@@ -111,7 +125,7 @@
       "endDate": "Present",
       "summary": "Assistant to the Set Building at CTAA",
       "highlights": [
-        "Supercise and instruct Central Theatre Arts Academy students on how to use different tools and machines in backstage theatre.",
+        "Supervise and instruct Central Theatre Arts Academy students on how to use different tools and machines in backstage theatre.",
         "Assist Central Theatre Arts Academy instructors with developing a set for upcoming and ongoing plays/musicals.",
         "Maintain a safe and encouraging work environment for students to learn all aspects of backstage theatre."
       ]
