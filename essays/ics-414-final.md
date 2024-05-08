@@ -28,6 +28,7 @@ start not showing up to class, not responding to the discord messages I would se
 dropped the project after realizing that his grade was not salvageable, which may have also led to others taking up that same notion. This unfortunately led to me completing a lot of the work for the project and presenting what I did to Sara directly; instead of 
 a group presentation, it often felt like a solo presentation of the features that I implemented. Although this could have been avoided if I had been able to choose my own group members, I do feel like this was a good reflection of how in the actual job force, 
 there is often little say that I may have in the quality of the people I am assigned to work with. 
+
 Finally, the bi-weekly milestone meetings with Professor Moore and Sara were probably my favorite portion of the course that I feel I will be able to retain with me when working with the software engineering industry as a whole. This is because I have heard from a 
 lot of individuals working in the software engineering industry that there are a lot of “code reviews” and weekly presentations in which software engineers have to discuss their progress toward whatever it is they are working on. This is something that we have never
 been trained or prepared to do in any other ICS course outside of maybe ICS 314, in which we had to present directly to Professor Moore about our individual project ideas and progress. In this case, however, we presented to our client Sara, who had a predetermined 
